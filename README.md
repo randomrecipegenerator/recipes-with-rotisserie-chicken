@@ -32,7 +32,7 @@ Combine chicken, bacon, avocado, eggs, and blue cheese. Drizzle with ranch.
 10. Chicken Pot Pie
 Mix chicken, veggies, and gravy in a pie crust. Bake until golden.
 
-🌟 Pro Tips for ## Rotisserie Chicken Recipes
+## Pro Tips for Rotisserie Chicken Recipes
 
 Boost Flavor: Use the carcass to make homemade broth.
 
@@ -40,5 +40,5 @@ Meal Prep: Shred and freeze leftover chicken for future recipes.
 
 Versatility: Adapt recipes to dietary needs (gluten-free, low-carb, etc.).
 
-🔍 Why Rotisserie Chicken?
+## Why Rotisserie Chicken?
 Affordable, pre-cooked, and packed with flavor, rotisserie chicken simplifies meal prep. Perfect for salads, soups, casseroles, and beyond!
