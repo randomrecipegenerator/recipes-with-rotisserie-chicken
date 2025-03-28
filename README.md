@@ -1,6 +1,6 @@
 # recipes-with-rotisserie-chicken
 ## Quick Rotisserie Chicken Recipes for Busy Cooks
-##Rotisserie chicken is a time-saving kitchen hero, perfect for creating flavorful meals in minutes. Use leftover or store-bought chicken to whip up these crowd-pleasing dishes:
+## Rotisserie chicken is a time-saving kitchen hero, perfect for creating flavorful meals in minutes. Use leftover or store-bought chicken to whip up these crowd-pleasing dishes:
 
 1. ## Rotisserie Chicken Tacos
 Shred chicken, toss with taco seasoning, and load into warm tortillas. Top with avocado, salsa, and cilantro. Ready in 15 minutes!
